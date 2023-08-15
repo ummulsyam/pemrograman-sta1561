@@ -1,0 +1,2 @@
+data("Airpassengers")
+str(AirPassengers)
